@@ -36,7 +36,8 @@ public class Desarrollos extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World! loco");
+        primaryStage.setTitle("Hello World! loco, que no sabes como hacer"
+                + "un commit");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
